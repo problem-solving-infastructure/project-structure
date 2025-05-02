@@ -77,30 +77,6 @@ We need this rules for easy viewing your files. If you are searching solution fr
 101_symmetric_tree.dart
 104_maximum_depth_of_binary_tree.dart
 108_convert_sorted_array_to_binary_search_tree.dart
-110_balanced_binary_tree.dart
-111_minimum_depth_of_binary_tree.dart
-112_path_sum.dart
-118_pascals_triangle.dart
-13_roman_to_integer.dart
-14_longest_common_prefix.dart
-1_two_sum.dart
-20_valid_parentheses.dart
-21_merge_two_sorted_lists.dart
-263_ugly_number.dart
-27_remove_element.dart
-3280_convert_date_to_binary.dart
-3516_find_closest_person.dart
-35_search_insert_position.dart
-500_keyboard_row.dart
-58_length_of_last_word.dart
-66_plus_one.dart
-67_add_binary.dart
-69_sqrt_x.dart
-70_climbing_stairs.dart
-83_remove_duplicates_from_sorted_list.dart
-88_merge_sorted_array.dart
-94_binary_tree_inorder_traversal.dart
-9_palindrome_number.dart
 ```
 
 ## Feedback
