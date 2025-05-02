@@ -27,17 +27,17 @@ For example, for LeetCode, the division will be into `Easy`, `Medium`, and `Hard
 
 ### Easy
 
-| Name                                                                     | Link to LeetCode                                                                                          | Link to solution                                                                                                                  |
-|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 1. Two Sum                                                               | [Link](https://leetcode.com/problems/two-sum/)                                                            | [Link](./src/main/java/com/smlnskgmail/jaman/leetcodejava/easy/TwoSum.java)                                                       |
-| 9. Palindrome Number                                                     | [Link](https://leetcode.com/problems/palindrome-number/)                                                  | [Link](./src/main/java/com/smlnskgmail/jaman/leetcodejava/easy/PalindromeNumber.java)                                             |
+| Name                 | Link to LeetCode                                         | Link to solution                                                                      |
+| -------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1. Two Sum           | [Link](https://leetcode.com/problems/two-sum/)           | [Link](./src/main/java/com/smlnskgmail/jaman/leetcodejava/easy/TwoSum.java)           |
+| 9. Palindrome Number | [Link](https://leetcode.com/problems/palindrome-number/) | [Link](./src/main/java/com/smlnskgmail/jaman/leetcodejava/easy/PalindromeNumber.java) |
 
 ### Medium
 
-| Name                                                                                | Link to LeetCode                                                                                                     | Link to solution                                                                                                                       |
-|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| 2. Add Two Numbers                                                                  | [Link](https://leetcode.com/problems/add-two-numbers/)                                                               | [Link](./src/main/java/com/smlnskgmail/jaman/leetcodejava/medium/AddTwoNumbers.java)                                                   |
-| 3. Longest Substring Without Repeating Characters                                   | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                | [Link](./src/main/java/com/smlnskgmail/jaman/leetcodejava/medium/LongestSubstringWithoutRepeatingCharacters.java)                      |
+| Name                                              | Link to LeetCode                                                                      | Link to solution                                                                                                  |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 2. Add Two Numbers                                | [Link](https://leetcode.com/problems/add-two-numbers/)                                | [Link](./src/main/java/com/smlnskgmail/jaman/leetcodejava/medium/AddTwoNumbers.java)                              |
+| 3. Longest Substring Without Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Link](./src/main/java/com/smlnskgmail/jaman/leetcodejava/medium/LongestSubstringWithoutRepeatingCharacters.java) |
 ```
 
 For Codewars, the sections will be different - `8 kyu`, `7 kyu` and so on for each difficulty level.
@@ -47,16 +47,16 @@ For Codewars, the sections will be different - `8 kyu`, `7 kyu` and so on for ea
 
 ### 8 kyu
 
-| Name | Link to Codewars | Link to solution |
-| --- | --- | --- |
-| Abbreviate a Two Word Name | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/AbbreviateATwoWordName.java) |
+| Name                             | Link to Codewars                                               | Link to solution                                                                                   |
+| -------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Abbreviate a Two Word Name       | [Link](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/AbbreviateATwoWordName.java)        |
 | Age Range Compatibility Equation | [Link](https://www.codewars.com/kata/5803956ddb07c5c74200144e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu8/AgeRangeCompatibilityEquation.java) |
 
 ### 7 kyu
 
-| Name | Link to Codewars | Link to solution |
-| --- | --- | --- |
-| All Inclusive?| [Link](https://www.codewars.com/kata/5700c9acc1555755be00027e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AllInclusive.java) |
+| Name                  | Link to Codewars                                               | Link to solution                                                                          |
+| --------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| All Inclusive?        | [Link](https://www.codewars.com/kata/5700c9acc1555755be00027e) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AllInclusive.java)         |
 | Alphabetical Addition | [Link](https://www.codewars.com/kata/5d50e3914861a500121e1958) | [Link](./src/main/java/com/smlnskgmail/jaman/codewarsjava/kyu7/AlphabeticalAddition.java) |
 ```
 
